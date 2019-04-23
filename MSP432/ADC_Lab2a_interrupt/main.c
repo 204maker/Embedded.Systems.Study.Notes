@@ -29,7 +29,7 @@
  *     Output the raw digital value in Hex form to the console
  *     Output the value as a voltage to the console
  *
- * Author: Jairuz Agang-ang
+ * Author: Jai
  ******************************************************************************/
 /* DriverLib Includes */
 #include <ti/devices/msp432p4xx/driverlib/driverlib.h>
